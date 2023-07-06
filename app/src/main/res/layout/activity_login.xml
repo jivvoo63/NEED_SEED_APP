@@ -12,8 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="80dp"
         android:layout_gravity="center"
-        android:background="@null"
-        android:src="@drawable/NEED_icon"
+        android:src="@drawable/need_icon"
         tools:ignore="MissingConstraints">
     </ImageView>
 
@@ -30,7 +29,6 @@
             android:layout_height="match_parent"
             android:text="LOGIN"
             android:gravity="center"
-            android:background="null"
             android:textColor="#4B8A08"
             android:textStyle="bold"
             android:layout_marginBottom="20dp"

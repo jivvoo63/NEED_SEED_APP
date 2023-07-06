@@ -25,7 +25,6 @@
             android:layout_height="250dp"
             android:text="FORTUNE COOKIE"
             android:gravity="center"
-            android:background="null"
             android:textColor="#4B8A08"
             android:textStyle="bold"
             android:textSize="80sp">
